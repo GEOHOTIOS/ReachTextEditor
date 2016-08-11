@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C565A87A1D5ABF2900C322BA /* JTTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = C565A8791D5ABF2900C322BA /* JTTextView.m */; };
 		C57AE1511D59DB59001905E7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C57AE1501D59DB59001905E7 /* main.m */; };
 		C57AE1541D59DB59001905E7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C57AE1531D59DB59001905E7 /* AppDelegate.m */; };
 		C57AE1571D59DB59001905E7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C57AE1561D59DB59001905E7 /* ViewController.m */; };
@@ -15,6 +16,28 @@
 		C57AE15F1D59DB59001905E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C57AE15D1D59DB59001905E7 /* LaunchScreen.storyboard */; };
 		C57AE16A1D59DB59001905E7 /* RichTextEditTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C57AE1691D59DB59001905E7 /* RichTextEditTests.m */; };
 		C57AE1751D59DB59001905E7 /* RichTextEditUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C57AE1741D59DB59001905E7 /* RichTextEditUITests.m */; };
+		C57AE19B1D59DBB9001905E7 /* 234.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1841D59DBB9001905E7 /* 234.png */; };
+		C57AE19C1D59DBB9001905E7 /* 30bold.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1861D59DBB9001905E7 /* 30bold.png */; };
+		C57AE19D1D59DBB9001905E7 /* 30clinder.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1871D59DBB9001905E7 /* 30clinder.png */; };
+		C57AE19E1D59DBB9001905E7 /* 30colors.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1881D59DBB9001905E7 /* 30colors.png */; };
+		C57AE19F1D59DBB9001905E7 /* 30font.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1891D59DBB9001905E7 /* 30font.png */; };
+		C57AE1A01D59DBB9001905E7 /* 30ima.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE18A1D59DBB9001905E7 /* 30ima.png */; };
+		C57AE1A11D59DBB9001905E7 /* 30key.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE18B1D59DBB9001905E7 /* 30key.png */; };
+		C57AE1A21D59DBB9001905E7 /* 30LinkB.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE18C1D59DBB9001905E7 /* 30LinkB.png */; };
+		C57AE1A31D59DBB9001905E7 /* 30TabelB.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE18D1D59DBB9001905E7 /* 30TabelB.png */; };
+		C57AE1A41D59DBB9001905E7 /* 30Under.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE18E1D59DBB9001905E7 /* 30Under.png */; };
+		C57AE1A51D59DBB9001905E7 /* 70bold.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE18F1D59DBB9001905E7 /* 70bold.png */; };
+		C57AE1A61D59DBB9001905E7 /* 70clinder.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1901D59DBB9001905E7 /* 70clinder.png */; };
+		C57AE1A71D59DBB9001905E7 /* 70colors.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1911D59DBB9001905E7 /* 70colors.png */; };
+		C57AE1A81D59DBB9001905E7 /* 70font.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1921D59DBB9001905E7 /* 70font.png */; };
+		C57AE1A91D59DBB9001905E7 /* 70ima.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1931D59DBB9001905E7 /* 70ima.png */; };
+		C57AE1AA1D59DBB9001905E7 /* 70key.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1941D59DBB9001905E7 /* 70key.png */; };
+		C57AE1AB1D59DBB9001905E7 /* 70LinkB.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1951D59DBB9001905E7 /* 70LinkB.png */; };
+		C57AE1AC1D59DBB9001905E7 /* 70place.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1961D59DBB9001905E7 /* 70place.png */; };
+		C57AE1AD1D59DBB9001905E7 /* 70TabelB.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1971D59DBB9001905E7 /* 70TabelB.png */; };
+		C57AE1AE1D59DBB9001905E7 /* 70Under.png in Resources */ = {isa = PBXBuildFile; fileRef = C57AE1981D59DBB9001905E7 /* 70Under.png */; };
+		C57AE1AF1D59DBB9001905E7 /* UITextView+Helper.m in Sources */ = {isa = PBXBuildFile; fileRef = C57AE19A1D59DBB9001905E7 /* UITextView+Helper.m */; };
+		DF8D92072FB8FDA0CF9C41F4 /* Pods_RichTextEdit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 164303A561B5CE083A724DD0 /* Pods_RichTextEdit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +58,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		164303A561B5CE083A724DD0 /* Pods_RichTextEdit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RichTextEdit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F942CFFB3C8002C4E28AEE7 /* Pods-RichTextEdit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RichTextEdit.release.xcconfig"; path = "Pods/Target Support Files/Pods-RichTextEdit/Pods-RichTextEdit.release.xcconfig"; sourceTree = "<group>"; };
+		826F1E8886187BFE3D463BE2 /* Pods-RichTextEdit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RichTextEdit.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RichTextEdit/Pods-RichTextEdit.debug.xcconfig"; sourceTree = "<group>"; };
+		C565A8781D5ABF2900C322BA /* JTTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JTTextView.h; sourceTree = "<group>"; };
+		C565A8791D5ABF2900C322BA /* JTTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JTTextView.m; sourceTree = "<group>"; };
 		C57AE14C1D59DB59001905E7 /* RichTextEdit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RichTextEdit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C57AE1501D59DB59001905E7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C57AE1521D59DB59001905E7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +79,28 @@
 		C57AE1701D59DB59001905E7 /* RichTextEditUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RichTextEditUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C57AE1741D59DB59001905E7 /* RichTextEditUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RichTextEditUITests.m; sourceTree = "<group>"; };
 		C57AE1761D59DB59001905E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C57AE1841D59DBB9001905E7 /* 234.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 234.png; sourceTree = "<group>"; };
+		C57AE1861D59DBB9001905E7 /* 30bold.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30bold.png; sourceTree = "<group>"; };
+		C57AE1871D59DBB9001905E7 /* 30clinder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30clinder.png; sourceTree = "<group>"; };
+		C57AE1881D59DBB9001905E7 /* 30colors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30colors.png; sourceTree = "<group>"; };
+		C57AE1891D59DBB9001905E7 /* 30font.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30font.png; sourceTree = "<group>"; };
+		C57AE18A1D59DBB9001905E7 /* 30ima.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30ima.png; sourceTree = "<group>"; };
+		C57AE18B1D59DBB9001905E7 /* 30key.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30key.png; sourceTree = "<group>"; };
+		C57AE18C1D59DBB9001905E7 /* 30LinkB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30LinkB.png; sourceTree = "<group>"; };
+		C57AE18D1D59DBB9001905E7 /* 30TabelB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30TabelB.png; sourceTree = "<group>"; };
+		C57AE18E1D59DBB9001905E7 /* 30Under.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 30Under.png; sourceTree = "<group>"; };
+		C57AE18F1D59DBB9001905E7 /* 70bold.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70bold.png; sourceTree = "<group>"; };
+		C57AE1901D59DBB9001905E7 /* 70clinder.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70clinder.png; sourceTree = "<group>"; };
+		C57AE1911D59DBB9001905E7 /* 70colors.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70colors.png; sourceTree = "<group>"; };
+		C57AE1921D59DBB9001905E7 /* 70font.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70font.png; sourceTree = "<group>"; };
+		C57AE1931D59DBB9001905E7 /* 70ima.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70ima.png; sourceTree = "<group>"; };
+		C57AE1941D59DBB9001905E7 /* 70key.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70key.png; sourceTree = "<group>"; };
+		C57AE1951D59DBB9001905E7 /* 70LinkB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70LinkB.png; sourceTree = "<group>"; };
+		C57AE1961D59DBB9001905E7 /* 70place.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70place.png; sourceTree = "<group>"; };
+		C57AE1971D59DBB9001905E7 /* 70TabelB.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70TabelB.png; sourceTree = "<group>"; };
+		C57AE1981D59DBB9001905E7 /* 70Under.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 70Under.png; sourceTree = "<group>"; };
+		C57AE1991D59DBB9001905E7 /* UITextView+Helper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITextView+Helper.h"; sourceTree = "<group>"; };
+		C57AE19A1D59DBB9001905E7 /* UITextView+Helper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextView+Helper.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +108,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF8D92072FB8FDA0CF9C41F4 /* Pods_RichTextEdit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +129,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		657B10FB5D6E903EDAF6463D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				164303A561B5CE083A724DD0 /* Pods_RichTextEdit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		C57AE1431D59DB59001905E7 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +144,8 @@
 				C57AE1681D59DB59001905E7 /* RichTextEditTests */,
 				C57AE1731D59DB59001905E7 /* RichTextEditUITests */,
 				C57AE14D1D59DB59001905E7 /* Products */,
+				F79A9DCBD813F9DCF415E351 /* Pods */,
+				657B10FB5D6E903EDAF6463D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,6 +162,7 @@
 		C57AE14E1D59DB59001905E7 /* RichTextEdit */ = {
 			isa = PBXGroup;
 			children = (
+				C57AE1821D59DBB9001905E7 /* Editor */,
 				C57AE1521D59DB59001905E7 /* AppDelegate.h */,
 				C57AE1531D59DB59001905E7 /* AppDelegate.m */,
 				C57AE1551D59DB59001905E7 /* ViewController.h */,
@@ -140,6 +202,62 @@
 			path = RichTextEditUITests;
 			sourceTree = "<group>";
 		};
+		C57AE1821D59DBB9001905E7 /* Editor */ = {
+			isa = PBXGroup;
+			children = (
+				C57AE1831D59DBB9001905E7 /* Images */,
+				C57AE1991D59DBB9001905E7 /* UITextView+Helper.h */,
+				C57AE19A1D59DBB9001905E7 /* UITextView+Helper.m */,
+				C565A8781D5ABF2900C322BA /* JTTextView.h */,
+				C565A8791D5ABF2900C322BA /* JTTextView.m */,
+			);
+			path = Editor;
+			sourceTree = "<group>";
+		};
+		C57AE1831D59DBB9001905E7 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				C57AE1841D59DBB9001905E7 /* 234.png */,
+				C57AE1851D59DBB9001905E7 /* 30 */,
+				C57AE18F1D59DBB9001905E7 /* 70bold.png */,
+				C57AE1901D59DBB9001905E7 /* 70clinder.png */,
+				C57AE1911D59DBB9001905E7 /* 70colors.png */,
+				C57AE1921D59DBB9001905E7 /* 70font.png */,
+				C57AE1931D59DBB9001905E7 /* 70ima.png */,
+				C57AE1941D59DBB9001905E7 /* 70key.png */,
+				C57AE1951D59DBB9001905E7 /* 70LinkB.png */,
+				C57AE1961D59DBB9001905E7 /* 70place.png */,
+				C57AE1971D59DBB9001905E7 /* 70TabelB.png */,
+				C57AE1981D59DBB9001905E7 /* 70Under.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		C57AE1851D59DBB9001905E7 /* 30 */ = {
+			isa = PBXGroup;
+			children = (
+				C57AE1861D59DBB9001905E7 /* 30bold.png */,
+				C57AE1871D59DBB9001905E7 /* 30clinder.png */,
+				C57AE1881D59DBB9001905E7 /* 30colors.png */,
+				C57AE1891D59DBB9001905E7 /* 30font.png */,
+				C57AE18A1D59DBB9001905E7 /* 30ima.png */,
+				C57AE18B1D59DBB9001905E7 /* 30key.png */,
+				C57AE18C1D59DBB9001905E7 /* 30LinkB.png */,
+				C57AE18D1D59DBB9001905E7 /* 30TabelB.png */,
+				C57AE18E1D59DBB9001905E7 /* 30Under.png */,
+			);
+			path = 30;
+			sourceTree = "<group>";
+		};
+		F79A9DCBD813F9DCF415E351 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				826F1E8886187BFE3D463BE2 /* Pods-RichTextEdit.debug.xcconfig */,
+				5F942CFFB3C8002C4E28AEE7 /* Pods-RichTextEdit.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +265,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C57AE1791D59DB59001905E7 /* Build configuration list for PBXNativeTarget "RichTextEdit" */;
 			buildPhases = (
+				AF86AFA080DD3E926A8B4D9A /* [CP] Check Pods Manifest.lock */,
 				C57AE1481D59DB59001905E7 /* Sources */,
 				C57AE1491D59DB59001905E7 /* Frameworks */,
 				C57AE14A1D59DB59001905E7 /* Resources */,
+				6E021D9B15477FF8F3AE2565 /* [CP] Embed Pods Frameworks */,
+				447C5701D1B67CD64EA8E394 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -246,9 +367,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C57AE1A81D59DBB9001905E7 /* 70font.png in Resources */,
+				C57AE19D1D59DBB9001905E7 /* 30clinder.png in Resources */,
 				C57AE15F1D59DB59001905E7 /* LaunchScreen.storyboard in Resources */,
+				C57AE1A21D59DBB9001905E7 /* 30LinkB.png in Resources */,
+				C57AE1A01D59DBB9001905E7 /* 30ima.png in Resources */,
 				C57AE15C1D59DB59001905E7 /* Assets.xcassets in Resources */,
+				C57AE1A61D59DBB9001905E7 /* 70clinder.png in Resources */,
 				C57AE15A1D59DB59001905E7 /* Main.storyboard in Resources */,
+				C57AE1AC1D59DBB9001905E7 /* 70place.png in Resources */,
+				C57AE1AA1D59DBB9001905E7 /* 70key.png in Resources */,
+				C57AE1AD1D59DBB9001905E7 /* 70TabelB.png in Resources */,
+				C57AE19B1D59DBB9001905E7 /* 234.png in Resources */,
+				C57AE1A71D59DBB9001905E7 /* 70colors.png in Resources */,
+				C57AE19E1D59DBB9001905E7 /* 30colors.png in Resources */,
+				C57AE1AE1D59DBB9001905E7 /* 70Under.png in Resources */,
+				C57AE1A31D59DBB9001905E7 /* 30TabelB.png in Resources */,
+				C57AE1A41D59DBB9001905E7 /* 30Under.png in Resources */,
+				C57AE19C1D59DBB9001905E7 /* 30bold.png in Resources */,
+				C57AE1A91D59DBB9001905E7 /* 70ima.png in Resources */,
+				C57AE1A11D59DBB9001905E7 /* 30key.png in Resources */,
+				C57AE1AB1D59DBB9001905E7 /* 70LinkB.png in Resources */,
+				C57AE19F1D59DBB9001905E7 /* 30font.png in Resources */,
+				C57AE1A51D59DBB9001905E7 /* 70bold.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -268,14 +409,64 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		447C5701D1B67CD64EA8E394 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RichTextEdit/Pods-RichTextEdit-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6E021D9B15477FF8F3AE2565 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RichTextEdit/Pods-RichTextEdit-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AF86AFA080DD3E926A8B4D9A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		C57AE1481D59DB59001905E7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				C57AE1571D59DB59001905E7 /* ViewController.m in Sources */,
+				C565A87A1D5ABF2900C322BA /* JTTextView.m in Sources */,
 				C57AE1541D59DB59001905E7 /* AppDelegate.m in Sources */,
 				C57AE1511D59DB59001905E7 /* main.m in Sources */,
+				C57AE1AF1D59DBB9001905E7 /* UITextView+Helper.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +607,7 @@
 		};
 		C57AE17A1D59DB59001905E7 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 826F1E8886187BFE3D463BE2 /* Pods-RichTextEdit.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = RichTextEdit/Info.plist;
@@ -427,6 +619,7 @@
 		};
 		C57AE17B1D59DB59001905E7 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5F942CFFB3C8002C4E28AEE7 /* Pods-RichTextEdit.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = RichTextEdit/Info.plist;
@@ -501,6 +694,7 @@
 				C57AE17B1D59DB59001905E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C57AE17C1D59DB59001905E7 /* Build configuration list for PBXNativeTarget "RichTextEditTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +703,7 @@
 				C57AE17E1D59DB59001905E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C57AE17F1D59DB59001905E7 /* Build configuration list for PBXNativeTarget "RichTextEditUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +712,7 @@
 				C57AE1811D59DB59001905E7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,6 @@
+framework module Pods_RichTextEdit {
+  umbrella header "Pods-RichTextEdit-umbrella.h"
+
+  export *
+  module * { export * }
+}
